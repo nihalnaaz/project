@@ -31,7 +31,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sandeep567774-svg/CareSync.git
+   git clone https://github.com/nihalnaaz/project/tree/cc8032e03b0d4fb2525f0afce6cbb7852ad72619/SANDHU
    ```
 2. Navigate to the project directory:
    ```bash
